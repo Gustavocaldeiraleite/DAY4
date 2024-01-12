@@ -6,4 +6,3 @@ def progress(corrida):
             dias +=1
         b = i
     return dias
-# print(progress([6, 5, 4, 3, 2, 9]))
